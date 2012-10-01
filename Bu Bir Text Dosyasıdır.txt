@@ -1,2 +1,2 @@
-﻿satır 0: bu bir satırdır
+﻿satır 0: bu sıfırıncı satırdır
 satır 1: bu da ikinci satırdır
